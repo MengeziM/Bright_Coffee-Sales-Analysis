@@ -1,7 +1,7 @@
 # Bright_Coffee-Sales-Analysis
 
 ********Problem Statement*******
-The sales of Bright coffe shopnare declining for the last 6 months. The CEO wants to understand what is the cause of the decline in revenue.
+The sales of Bright coffee shop are declining for the last 6 months. The CEO wants to understand what is the cause of the decline in revenue.
 
 ********Aim***********
 To provide a detailed insights on cause of the decline in revenue
